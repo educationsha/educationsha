@@ -74,10 +74,12 @@ I am interested in international research and R&D opportunities in:
 
 **Computer Vision • Autonomous Systems • UAV AI • Edge AI • Robotics • Trustworthy AI • Cybersecurity**
 
-## Links
+## 🔗 Professional & Academic Profiles
 
-* [CV]
-* [Google Scholar]
-* [ORCID]
-* [LinkedIn]
-* [Personal Website]
+- 📄 **[Curriculum Vitae (CV)](https://drive.google.com/file/d/1XPRcAQWaeOI2ACph5amvO8W93f4ZVKY0/view?usp=sharing)**
+- 🌐 **[Web of Science / Researcher Profile](https://publons.com/researcher/2902425/shahul-hameed-c/)**
+- 📚 **[Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57196081869)**
+- 🎓 **[Google Scholar](https://scholar.google.co.in/citations?hl=en&user=KqZc18gAAAAJ)**
+- 🆔 **[ORCID](https://orcid.org/0000-0002-9761-0432)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/shahulhameedchettali/)**
+- 🌐 **[Personal Website](https://educationsha.wordpress.com/home/listen/)**
