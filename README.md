@@ -1,85 +1,97 @@
-# Dr. Shahul Hameed Chettali
+# Dr. Shahul Hameed C
 
-**AI Research Engineer | Computer Vision | UAV & Edge AI | Autonomous Systems**
+**AI Researcher & Engineer | Computer Vision | UAV Intelligence | Edge AI | Autonomous Systems**
 
-AI researcher and engineering professional with **13.7+ years of experience** spanning industrial AI, higher education, defence-focused R&D, computer vision, autonomous UAV systems and edge intelligence.
+AI researcher and engineering professional with **13+ years of combined academic, industrial, and R&D experience** spanning computer vision, deep learning, UAV systems, edge intelligence, networking, cybersecurity, and applied AI.
 
-Currently an Assistant Professor in Computer Science & Engineering (Cyber Security), with previous experience as an **AI Research Engineer / AI Team Head at the Centre for Aerospace Research, Anna University – MIT Campus**.
+Currently an **Assistant Professor in Computer Science & Engineering (Cyber Security)**, with previous experience in AI-focused aerospace and UAV R&D at **Anna University – MIT Campus**.
 
-## Research & Engineering Focus
+## Research Focus
 
-* Computer Vision & Deep Learning
-* UAV / Drone Intelligence
-* Autonomous Systems
-* Edge AI & Embedded Inference
-* Object Detection & Multi-Object Tracking
-* Robotics, SLAM & Navigation
-* Swarm Intelligence
-* Cybersecurity & Trustworthy AI
-* Environmental AI
-* Medical Image Analysis
+- **UAV & Aerial Intelligence** — aerial perception, object detection, localization, tracking, and autonomous systems
+- **Computer Vision & Deep Learning** — YOLO, image classification, segmentation, tracking, and rotation-aware vision
+- **Edge AI** — NVIDIA Jetson, Raspberry Pi, TensorRT, ONNX, quantization, and resource-constrained inference
+- **Autonomous & Swarm Systems** — robotics, SLAM, navigation, MAVLink, and UAV networking
+- **Intelligent Networking** — NEMO, MANET/FANET, QoS routing, bandwidth allocation, and mobility
+- **Environmental AI** — flood mapping, groundwater quality assessment, and data-driven environmental monitoring
+- **Trustworthy AI & Cybersecurity** — secure and reliable intelligent systems
+- **Medical AI** — machine learning and image-analysis applications
 
-## Selected Research & Engineering Work
+## Selected Research & Engineering Projects
 
-### UAV Computer Vision & Autonomous Systems
+### 1. Rotation-Aware UAV Object Detection — SRT
 
-Developing AI systems for aerial perception, target identification, localization and autonomous UAV operations.
+**Sha Rotation Thumbnail (SRT)** is a rotation-aware post-detection approach for improving object-thumbnail alignment in UAV imagery. The project evaluates rotations at **0°, 90°, 180°, and 270°** and compares the approach with YOLOv5 on a large aerial-image dataset.
 
-### Counter-Swarm Drone Intelligence
+**Reported evaluation:** Precision 0.919, Recall 0.875, F1-score 0.896 for SRT versus Precision 0.844, Recall 0.793, F1-score 0.818 for the YOLOv5 baseline.
 
-AI development for a Vehicle Mounted Counter Swarm Drone System under a Ministry of Defence initiative, including multi-object detection and tracking.
+→ [`uav-rotation-aware-object-detection`](https://github.com/educationsha/-large-dataset_Sha-Rotation-Thumbnail)
 
-### IAF Meher Baba UAV Systems
+### 2. UAV Flood Vulnerability Mapping
 
-Computer vision and autonomy work for autonomous landing, target identification and precision payload-drop scenarios.
+Drone-based flood vulnerability and GIS mapping research focused on urban flood assessment in Chennai, with aerial imagery, geospatial analysis, and environmental monitoring.
 
-### Edge AI
+→ [`Flood`](https://github.com/educationsha/Flood)
 
-Deployment and optimization of computer-vision models on NVIDIA Jetson and Raspberry Pi platforms for resource-constrained inference.
+### 3. Cloud-Deployed Plant Disease Detection
 
-### Rotation-Aware Computer Vision
+A YOLOv5-based plant disease detection application integrating **Flask, Docker, OpenCV, and Microsoft Azure** services for cloud deployment and browser-based inference. The project supports 38 plant-disease classes.
 
-Development of the **Sha Rotation Thumbnail (SRT)** approach for improving robustness to rotated and skewed objects.
+→ [`shahleaf`](https://github.com/educationsha/shahleaf)
 
-### Environmental AI
+### 4. QoS-Aware UAV Network Mobility — ERFBAP
 
-Machine-learning and data-driven approaches for water-quality assessment and environmental monitoring.
+Implementation and evaluation of the **Extended Race Free Bandwidth Allocation Protocol (ERFBAP)** for QoS-aware network mobility, including OMNeT++ and NS-3 implementations and UAV/FANET simulation scenarios.
 
-## Technologies
+→ [`ERFBAP_LCLB`](https://github.com/educationsha/ERFBAP_LCLB)
+
+### 5. AI-Based Groundwater Quality Assessment
+
+Data-driven groundwater analysis for Tiruvallur District using physicochemical parameters, hydrochemical analysis, and a TensorFlow/Keras neural-network classification framework.
+
+→ [`thiruvallur_Water`](https://github.com/educationsha/thiruvallur_Water)
+
+## Technical Stack
 
 **AI / ML:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face
 
-**Computer Vision:** OpenCV, YOLO, segmentation, object detection, tracking
+**Computer Vision:** OpenCV, YOLO, image segmentation, object detection, tracking
 
-**Edge AI:** NVIDIA Jetson, TensorRT, ONNX, quantization, pruning, Raspberry Pi
+**Edge AI:** NVIDIA Jetson, TensorRT, ONNX, Raspberry Pi
 
-**Robotics:** ROS, SLAM, autonomous navigation, MAVLink
+**Robotics & UAV:** ROS, SLAM, MAVLink, autonomous navigation, UAV networking
 
-**Programming:** Python, C/C++, Java, SQL
+**Programming:** Python, C/C++, Java, SQL, R
 
-**Cloud / Engineering:** AWS, Azure, Docker, Git, Linux
+**Engineering & Cloud:** Docker, Azure, AWS, Git, Linux
 
 ## Research Output
 
-* 12+ research publications
-* 3 published patents
-* UAV and defence-focused R&D
-* Applied AI prototypes
-* Computer vision datasets
-* Edge AI deployment experiments
+- Research publications in AI, networking, UAV systems, and applied computing
+- Published patents
+- UAV and aerospace R&D experience
+- Computer-vision datasets and experimental implementations
+- Edge-AI deployment experiments
+- Academic teaching, technical training, and research supervision
 
-## Research Interests
+## Research Interests & Collaboration
 
-I am interested in international research and R&D opportunities in:
+I am interested in **international research, R&D, postdoctoral, and applied AI opportunities** involving:
 
-**Computer Vision • Autonomous Systems • UAV AI • Edge AI • Robotics • Trustworthy AI • Cybersecurity**
+**Computer Vision · UAV AI · Autonomous Systems · Edge AI · Robotics · Intelligent Networking · Environmental AI · Trustworthy AI · Cybersecurity**
 
-## 🔗 Professional & Academic Profiles
+## Professional & Academic Profiles
 
-- 📄 **[Curriculum Vitae (CV)](https://drive.google.com/file/d/1XPRcAQWaeOI2ACph5amvO8W93f4ZVKY0/view?usp=sharing)**
-- 🌐 **[Web of Science / Researcher Profile](https://publons.com/researcher/2902425/shahul-hameed-c/)**
-- 📚 **[Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57196081869)**
+- 📄 **[Curriculum Vitae](https://drive.google.com/file/d/1XPRcAQWaeOI2ACph5amvO8W93f4ZVKY0/view?usp=sharing)**
 - 🎓 **[Google Scholar](https://scholar.google.co.in/citations?hl=en&user=KqZc18gAAAAJ)**
 - 🆔 **[ORCID](https://orcid.org/0000-0002-9761-0432)**
+- 📚 **[Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57196081869)**
+- 🌐 **[Web of Science / Researcher Profile](https://publons.com/researcher/2902425/shahul-hameed-c/)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/shahulhameedchettali/)**
 - 🌐 **[Personal Website](https://educationsha.wordpress.com/home/listen/)**
+
+## Portfolio Philosophy
+
+> **Research → Prototype → Experiment → Deploy → Document**
+
+This profile highlights reproducible research artifacts, applied AI systems, datasets, experiments, and engineering implementations across UAV intelligence, computer vision, edge AI, networking, and environmental applications.
