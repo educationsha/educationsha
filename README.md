@@ -2,9 +2,7 @@
 
 **Ai Autonomous System Software Lead | AI Researcher & Engineer | Computer Vision | UAV Intelligence | Edge AI | Autonomous Systems**
 
-AI researcher and engineering professional with **13+ years of combined academic, industrial, and R&D experience** spanning computer vision, deep learning, UAV systems, edge intelligence, networking, cybersecurity, and applied AI.
-
-Currently an **Assistant Professor in Computer Science & Engineering (Cyber Security)**, with previous experience in AI-focused aerospace and UAV R&D at **Anna University – MIT Campus**.
+AI researcher and engineering professional with **13+ years of combined academic, industrial, and R&D experience** spanning computer vision, deep learning, autonomous UAV systems, edge intelligence, networking, cybersecurity, and applied AI. Currently working as an **AI Autonomous Systems Software Lead at a private defence company**, leading AI-driven autonomous systems and UAV software development. Previously served as an **Assistant Professor at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology** and held multiple academic and research roles at **Anna University – MIT Campus**, including **AI Engineer, Project Associate I & II, and Teaching Fellow**, contributing to AI-focused aerospace research, UAV systems, and applied technology development.
 
 ## Research Focus
 
