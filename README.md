@@ -1,6 +1,6 @@
 # Dr. Shahul Hameed C
 
-**AI Researcher & Engineer | Computer Vision | UAV Intelligence | Edge AI | Autonomous Systems**
+**Ai Autonomous System Software Lead | AI Researcher & Engineer | Computer Vision | UAV Intelligence | Edge AI | Autonomous Systems**
 
 AI researcher and engineering professional with **13+ years of combined academic, industrial, and R&D experience** spanning computer vision, deep learning, UAV systems, edge intelligence, networking, cybersecurity, and applied AI.
 
